@@ -59,3 +59,8 @@ header li a:hover{
   grid-column: 2;
   grid-row: 1;
 }
+.Projects{
+  margin: auto;
+  width: 50%;
+}
+
