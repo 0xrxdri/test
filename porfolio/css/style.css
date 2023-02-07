@@ -34,7 +34,6 @@ header li a:hover{
   color:blue  
 }
 .ShortDescription{
-  padding: 100px;
   min-height: 900px;
   min-width: 900px;
 }
@@ -75,4 +74,8 @@ header li a:hover{
   grid-column: 2;
   min-width: 600px;
   margin: auto;
+}
+.Projects{
+  text-align: center;
+  padding: 100px 0px 200px 0px;
 }
