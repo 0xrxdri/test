@@ -46,7 +46,7 @@ header li a:hover{
 .ShortDescription{
   margin: auto;
   width: 50%;
-  padding: 100px 0px 100px 0px;
+  padding: 250px 0px 100px 0px;
   font-size: 20px;
 }
 .DescriptionText{
@@ -78,4 +78,13 @@ header li a:hover{
 .Projects{
   text-align: center;
   padding: 100px 0px 200px 0px;
+}
+.Studies{
+  font-size: 20px;
+  margin: auto;
+  width: 50%;
+}
+
+.Studies a{
+  color: #bbd2ff;
 }
