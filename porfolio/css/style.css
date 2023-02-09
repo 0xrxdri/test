@@ -113,7 +113,7 @@ header li a:hover{
 } */
 .RRSS{
   display: grid;
-  grid-template-columns: 30% 30% 30%;
+  grid-template-columns: 33.33333% 33.33333% 33.33333%;
   width: 90%;
   margin: 0 auto;
   padding-top: 100px;
