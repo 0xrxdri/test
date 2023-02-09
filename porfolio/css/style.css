@@ -111,9 +111,19 @@ header li a:hover{
   grid-template-columns: 30% 30% 30%;
   width: 90%;
   margin: 0 auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
-.con1, .cont2, .cont3{
+.RRSS a{
+  font-size: 18px;
+  text-decoration: none;
+}
+.cont1, .cont2, .cont3{
   width: 280px;
+}
+.cont1 div{
+  padding-top: 35px;
+  padding-bottom: 35px;
 }
 .cont2{
   margin: auto;
@@ -122,4 +132,8 @@ header li a:hover{
 .cont3{
   margin: 0 0 0 auto;
   text-align: right;
+}
+.cont3 div{
+  padding-top: 35px;
+  padding-bottom: 35px;
 }
